@@ -2,11 +2,7 @@
 
 ## &#x1f4c8; About me
 
-💼 - 4th year student at Dublin City University, learning computer science
-
-💼 - Self taught rust developper
-
-💼 - Freelance blockchain developer
+💼 - Rust & blockchain developer
 
 ⚙️ - Crypto, blockchain and new tech enthusiast
 
